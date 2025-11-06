@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Currently working on **[Ryzor](https://github.com/lucaas-d3v/Ryzor)** — a command-line file organizer focused on performance, accuracy, and efficiency.  <br>🌱 Learning more about design patterns, modern Java frameworks (e.g., Spring Boot), and Python for automation/scripting.  <br>👯 Interested in collaborating on open-source projects involving backend, CLI tools, or automation.<br>💬 Ask me about<br><br> backend best practices, clean code.<br>
+<br>🌱 Learning more about design patterns, modern Java frameworks (e.g., Spring Boot), and Python for automation/scripting.  <br>👯 Interested in collaborating on open-source projects involving backend, CLI tools, or automation.<br>💬 Ask me about<br><br> backend best practices, clean code.<br>
 
 
 ## 🌐 Socials:
