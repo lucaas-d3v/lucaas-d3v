@@ -1,63 +1,79 @@
-# 💫 About Me
+About Me
 
-🌱 Focado no desenvolvimento da **Klang**, uma linguagem experimental orientada à clareza, interoperabilidade e design moderno.  
-🔭 Prioridade atual: **construir um compilador sólido**, melhorar sintaxe, parser, tooling e CLI.  
-🧩 Interesse ativo em design de linguagens, compiladores, parsers, runtimes e interoperabilidade entre linguagens.
+I am ~K’, a developer focused on language engineering, compilers, and low-level systems.
+I currently dedicate my work to building Klang, a polyglot language oriented toward clarity, deterministic semantics, and real interoperability across ecosystems.
 
-💬 Temas que discuto bem: arquitetura backend, design limpo, CLI tools e ecossistemas poliglotas.
+My approach is pragmatic: writing code that makes sense, not just code that runs.
+I value precision, consistency, and intentional design — especially in areas such as parsing, AST modeling, runtimes, and command-line tooling.
 
----
+I enjoy projects that demand deep reasoning. The harder the problem, the more interested I become.
 
-## 🔥 Projeto Atual (Prioridade Nº1)
-
-### **🚀 Klang — Linguagem Poliglota Experimental**  
-➡️ Repositório: https://github.com/lucaas-d3v/Klang
-
-Klang é minha principal iniciativa open-source.  
-Estou trabalhando em:
-
-- Lexer sólido e extensível  
-- Parser com base previsível  
-- Estruturação de AST  
-- Design da sintaxe v1  
-- CLI unificada para build, run e transpile  
-- Documentação clara para futuros contribuidores  
-
-Se você curte linguagem, compilação e engenharia de baixo nível, vale acompanhar.
 
 ---
 
-## 🌐 Socials
+Current Project
 
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/898903384768282694)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-paulino-da-silva-a1b55b360/)
+Klang — Experimental Polyglot Language
 
----
+Repository: https://github.com/lucaas-d3v/Klang
 
-## 💻 Tech Stack Principal
+Klang is the project driving my current research.
+I am working on:
 
-**Linguagens & Ferramentas:**
+A stable and extensible lexer
 
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Rust](https://img.shields.io/badge/Rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+A parser with predictable semantics
 
-**Backend & DB:**
+AST modeling
 
-![Spring](https://img.shields.io/badge/Spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+Definition of syntax v1
 
-**DevTools:**
+A unified CLI for build, run, and transpile
 
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
+Documentation designed for contributors and language design clarity
+
+
+Klang is built to be a bridge between ecosystems, not a competitor to them.
+
 
 ---
 
-## 📊 GitHub Stats
+Technical Interests
+
+Language design and architecture
+
+Multipass compilers
+
+Lexical and syntactic analysis
+
+Interoperability between languages
+
+Runtime structures and modular systems
+
+Backend engineering and CLI tools
+
+
+
+---
+
+Professional Contact
+
+Discord: kaoslx_
+LinkedIn: https://www.linkedin.com/in/lucas-paulino-da-silva-a1b55b360/
+
+
+---
+
+Core Tech Stack
+
+Java, Python, Rust, Bash
+Spring, PostgreSQL, MySQL
+Git, GitHub, Unix systems
+
+
+---
+
+GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=lucaas-d3v&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://nirzak-streak-stats.vercel.app/?user=lucaas-d3v&theme=dark&hide_border=false)
@@ -65,8 +81,108 @@ Se você curte linguagem, compilação e engenharia de baixo nível, vale acompa
 
 ---
 
-## ☕ Apoie o Projeto
+Project Support
 
-Se quiser impulsionar o desenvolvimento da Klang:
+If you would like to support the development of Klang:
+https://www.paypal.com/donate/?business=kproduce2023@gmail.com&currency_code=BRL
 
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/donate/?business=kproduce2023@gmail.com&currency_code=BRL)
+
+---
+
+Se quiser, preparo também uma versão condensada para a bio curta do GitHub,
+ou uma tagline oficial para usar no topo, tipo:
+~K’, atuo agora como especialista sênior em documentação técnica e redação profissional para perfis dev de alto nível.
+
+Aqui está a versão fiel, traduzida linha a linha, mantendo o mesmo tom maduro, direto e técnico do original — sem suavizar, sem florear e sem americanizar demais. É exatamente o mesmo conteúdo, apenas convertido para inglês com precisão e força.
+
+
+---
+
+About Me
+
+I am ~K’, a developer focused on language engineering, compilers, and low-level systems.
+I currently dedicate my work to building Klang, a polyglot language oriented toward clarity, deterministic semantics, and real interoperability across ecosystems.
+
+My approach is pragmatic: writing code that makes sense, not just code that runs.
+I value precision, consistency, and intentional design — especially in areas such as parsing, AST modeling, runtimes, and command-line tooling.
+
+I enjoy projects that demand deep reasoning. The harder the problem, the more interested I become.
+
+
+---
+
+Current Project
+
+Klang — Experimental Polyglot Language
+
+Repository: https://github.com/lucaas-d3v/Klang
+
+Klang is the project driving my current research.
+I am working on:
+
+A stable and extensible lexer
+
+A parser with predictable semantics
+
+AST modeling
+
+Definition of syntax v1
+
+A unified CLI for build, run, and transpile
+
+Documentation designed for contributors and language design clarity
+
+
+Klang is built to be a bridge between ecosystems, not a competitor to them.
+
+
+---
+
+Technical Interests
+
+Language design and architecture
+
+Multipass compilers
+
+Lexical and syntactic analysis
+
+Interoperability between languages
+
+Runtime structures and modular systems
+
+Backend engineering and CLI tools
+
+
+
+---
+
+Professional Contact
+
+Discord: kaoslx_
+LinkedIn: https://www.linkedin.com/in/lucas-paulino-da-silva-a1b55b360/
+
+
+---
+
+Core Tech Stack
+
+Java, Python, Rust, Bash
+Spring, PostgreSQL, MySQL
+Git, GitHub, Unix systems
+
+
+---
+
+GitHub Stats
+
+
+
+
+
+
+---
+
+Project Support
+
+If you would like to support the development of Klang:
+https://www.paypal.com/donate/?business=kproduce2023@gmail.com&currency_code=BRL
