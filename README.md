@@ -16,7 +16,7 @@ Current Project
 
 Klang — Experimental Polyglot Language
 
-Repository: https://github.com/lucaas-d3v/Klang
+Repository: https://github.com/KlangLang/Klang
 
 Klang is the project driving my current research.
 I am working on:
