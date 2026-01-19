@@ -14,11 +14,11 @@ I enjoy projects that demand deep reasoning. The harder the problem, the more in
 
 Current Project
 
-Klang — Experimental Polyglot Language
+Klar — Experimental Polyglot Language
 
-Repository: https://github.com/KlangLang/Klang
+Repository: https://github.com/KlarLang/Klar
 
-Klang is the project driving my current research.
+Klar is the project driving my current research.
 I am working on:
 
 A stable and extensible lexer
@@ -34,7 +34,7 @@ A unified CLI for build, run, and transpile
 Documentation designed for contributors and language design clarity
 
 
-Klang is built to be a bridge between ecosystems, not a competitor to them.
+Klar is built to be a bridge between ecosystems, not a competitor to them.
 
 
 ---
@@ -85,5 +85,5 @@ GitHub Stats
 
 Project Support
 
-If you would like to support the development of Klang:
+If you would like to support the development of Klar:
 https://www.paypal.com/donate/?business=kproduce2023@gmail.com&currency_code=BRL
