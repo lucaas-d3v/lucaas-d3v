@@ -43,7 +43,7 @@ One of my ongoing projects explores **polyglot language interoperability**, aimi
 ## Core Stack
 
 * **Languages:** Java, Zig, Python, Rust, Bash
-* **Data:** Spring, PostgreSQL, MySQL
+* **Data & Frameworks:** Spring, PostgreSQL, MySQL
 * **Env:** Git, GitHub / Codeberg, Unix-like systems
 
 *(Technology is a tool, not an identity.)*
@@ -61,3 +61,5 @@ One of my ongoing projects explores **polyglot language interoperability**, aimi
 
 Most of my repositories are experiments, tools, or long-term explorations.
 **I value clarity, intent, and correctness over trend-following.**
+
+---
