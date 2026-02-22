@@ -59,5 +59,3 @@ One of my ongoing projects explores **polyglot language interoperability**, aimi
 
 Most of my repositories are experiments, tools, or long-term explorations.
 **I value clarity, intent, and correctness over trend-following.**
-
----
