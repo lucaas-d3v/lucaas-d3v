@@ -1,89 +1,73 @@
+---
+## About Me
 
-About Me
+I am ~K’, a systems-oriented developer with a strong interest in language engineering, tooling, and low-level software design.
 
-I am ~K’, a developer focused on language engineering, compilers, and low-level systems.
-I currently dedicate my work to building Klang, a polyglot language oriented toward clarity, deterministic semantics, and real interoperability across ecosystems.
+My work focuses on making complex systems understandable — through clear semantics, intentional abstractions, and predictable behavior. I’m especially interested in problems where correctness, structure, and long-term maintainability matter more than speed of delivery.
 
-My approach is pragmatic: writing code that makes sense, not just code that runs.
-I value precision, consistency, and intentional design — especially in areas such as parsing, AST modeling, runtimes, and command-line tooling.
+I tend to work close to the foundations: parsing, program structure, build systems, runtimes, and developer-facing tooling.
 
-I enjoy projects that demand deep reasoning. The harder the problem, the more interested I become.
-
+I’m most engaged when the problem requires deep reasoning and trade-off analysis rather than surface-level solutions.
 
 ---
 
-Current Project
+## Current Focus
 
-Klar — Experimental Polyglot Language
+I actively work on experimental and production-grade tools related to:
 
-Repository: https://github.com/KlarLang/Klar
+language infrastructure
 
-Klar is the project driving my current research.
-I am working on:
+compilers and interpreters
 
-A stable and extensible lexer
+command-line tooling
 
-A parser with predictable semantics
+build and release systems
 
-AST modeling
+backend-oriented system components
 
-Definition of syntax v1
+One of my ongoing projects explores polyglot language interoperability, aiming to bridge ecosystems rather than replace them.
+Other projects focus on tooling reliability, automation, and developer ergonomics.
 
-A unified CLI for build, run, and transpile
-
-Documentation designed for contributors and language design clarity
-
-
-Klar is built to be a bridge between ecosystems, not a competitor to them.
-
+(Projects evolve; principles stay.)
 
 ---
 
-Technical Interests
+## Technical Interests
 
-Language design and architecture
-
-Multipass compilers
+Language design and semantics
 
 Lexical and syntactic analysis
 
-Interoperability between languages
+AST modeling and program representation
 
-Runtime structures and modular systems
+Multi-stage and multipass compilation
 
-Backend engineering and CLI tools
+Interoperability between ecosystems
 
+CLI tools and backend systems
 
-
----
-
-Professional Contact
-
-Discord: kaoslx_
-LinkedIn: https://www.linkedin.com/in/lucas-paulino-da-silva-a1b55b360/
-
+Low-level abstractions with high-level intent
 
 ---
 
-Core Tech Stack
+## Core Stack
 
-Java, Python, Rust, Bash
+Java, Zig, Python, Rust, Bash
 Spring, PostgreSQL, MySQL
-Git, GitHub, Unix systems
+Git, GitHub / Codeberg, Unix-like systems
 
-
----
-
-GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=lucaas-d3v&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-![](https://nirzak-streak-stats.vercel.app/?user=lucaas-d3v&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=lucaas-d3v&theme=dark&hide_border=false&layout=compact)
-
+(Technology is a tool, not an identity.)
 
 ---
 
-Project Support
+## Contact
 
-If you would like to support the development of Klar:
-https://www.paypal.com/donate/?business=kproduce2023@gmail.com&currency_code=BRL
+- Discord: kaoslx_
+- LinkedIn: https://www.linkedin.com/in/lucas-paulino-da-silva-a1b55b360/
+
+---
+
+## Notes
+
+Most of my repositories are experiments, tools, or long-term explorations.
+I value clarity, intent, and correctness over trend-following.
