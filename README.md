@@ -1,5 +1,3 @@
----
-
 ## About Me
 
 I am **~K’**, a systems-oriented developer with a strong interest in language engineering, tooling, and low-level software design.
