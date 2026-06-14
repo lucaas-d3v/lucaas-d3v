@@ -1,61 +1,42 @@
-## About Me
+### Olá, eu sou o Lucas (~K')
 
-I am **~K’**, a systems-oriented developer with a strong interest in language engineering, tooling, and low-level software design.
+Desenvolvedor backend com foco em Python, e criador da linguagem **Flint** — um compilador escrito em Zig que transpila para C99.
 
-My work focuses on making complex systems understandable — through clear semantics, intentional abstractions, and predictable behavior. I’m especially interested in problems where correctness, structure, and long-term maintainability matter more than speed of delivery.
-
-I tend to work close to the foundations: **parsing, program structure, build systems, runtimes, and developer-facing tooling.**
-
-I’m most engaged when the problem requires deep reasoning and trade-off analysis rather than surface-level solutions.
+Gosto de entender como as coisas funcionam por dentro: desde a API que processa uma requisição até o compilador que gera o binário que ela roda.
 
 ---
 
-## Current Focus
+#### Foco atual
 
-I actively work on experimental and production-grade tools related to:
-
-* Language infrastructure
-* Compilers and interpreters
-* Command-line tooling
-* Build and release systems
-* Backend-oriented system components
-
-One of my ongoing projects explores **polyglot language interoperability**, aiming to bridge ecosystems rather than replace them. Other projects focus on tooling reliability, automation, and developer ergonomics.
-
-> Projects evolve; principles stay.
+- Backend em Python: APIs REST, automação, integração com bancos de dados
+- Linguagem Flint: design de linguagem, parsing, geração de código, runtime
+- Ferramentas CLI e automação de infraestrutura
 
 ---
 
-## Technical Interests
+#### Stack
 
-* Language design and semantics
-* Lexical and syntactic analysis
-* AST modeling and program representation
-* Multi-stage and multipass compilation
-* Interoperability between ecosystems
-* CLI tools and backend systems
-* Low-level abstractions with high-level intent
+**Backend:** Python · Flask · REST API · SQL · PostgreSQL · MySQL · SQLite
+**Sistemas:** Zig · C · Compiladores · Programação de baixo nível
+**Ferramentas:** Git · Linux · CLI tooling
 
 ---
 
-## Core Stack
+#### Projeto em destaque: Flint
 
-* **Languages:** Java, Zig, Python, Rust, Bash
-* **Data & Frameworks:** Spring, PostgreSQL, MySQL
-* **Env:** Git, GitHub / Codeberg, Unix-like systems
+Linguagem de programação compilada, implementada em Zig, que transpila para C99.
 
-*(Technology is a tool, not an identity.)*
+- v1.13.0 · 17 releases · 224 commits
+- Inicialização em ~10ms
+- JSON parsing 22x mais rápido que Python em benchmarks
+- APT repository oficial, pacotes .deb, CI/CD
+- Reconhecida pelo GitHub Linguist como linguagem oficial
 
----
-
-## Contact
-
-* **Discord:** `kaoslx_`
-* **LinkedIn:** [lucas-paulino-da-silva](https://www.linkedin.com/in/lucas-paulino-da-silva-a1b55b360/)
+→ [the-flint-lang/flint](https://github.com/the-flint-lang/flint)
 
 ---
 
-## Notes
+#### Contato
 
-Most of my repositories are experiments, tools, or long-term explorations.
-**I value clarity, intent, and correctness over trend-following.**
+- LinkedIn: [lucas-paulino-da-silva](https://linkedin.com/in/lucas-paulino-da-silva-a1b55b360)
+- Email: lucas.workps@gmail.com
