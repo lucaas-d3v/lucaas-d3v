@@ -36,6 +36,14 @@ Linguagem de programação compilada, implementada em Zig, que transpila para C9
 
 ---
 
+#### Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lucaas-d3v&show_icons=true&theme=catppuccin_mocha&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucaas-d3v&layout=compact&theme=catppuccin_mocha&hide_border=true)
+
+---
+
 #### Contato
 
 - LinkedIn: [lucas-paulino-da-silva](https://linkedin.com/in/lucas-paulino-da-silva-a1b55b360)
